@@ -59,3 +59,7 @@ pip-log.txt
 .coverage
 htmlcov
 cover
+# sqlite3
+*.db
+# temporal directory
+img_tmp/
